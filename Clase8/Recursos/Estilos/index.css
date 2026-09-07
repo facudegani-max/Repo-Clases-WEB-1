@@ -1,0 +1,19 @@
+
+/*
+SINTAXIS CSS
+
+
+Selector{
+    propiedad: valor;
+    propiedad: valor;
+}
+*/
+
+/*
+Seleccion de tipo 
+*/
+
+body{
+    background-color: chocolate;
+}
+

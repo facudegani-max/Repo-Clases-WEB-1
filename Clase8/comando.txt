@@ -1,0 +1,30 @@
+clase8 > comandos.txt
+
+Comandos Node
+
+Una sola vez en sus compus:
+
+- Instalar NodeJS version estable LTS
+- verificar si se instalo con:
+
+-verificar version:
+node -v
+
+-verificar version de npm:
+npm -v
+
+- Instalar pnpm (en el aula):
+npm i -g pnpm
+
+En cada proyecto:
+
+- Inicializar proyecto en la ruta que quiero iniciar el desarrollo:
+pn init
+(crea el documento package.json)
+
+-Instalar un paquete:
+pn add five-server
+
+-Creacion de gitignore para ignorar node_modules y no se suba al repo (no seguimiento)
+-para volver a intsalar lo que figura en packaje.json
+pn install
