@@ -1,0 +1,48 @@
+
+/*REGLA*/
+
+/*
+SINTAXIS CSS
+
+
+Selector{
+    propiedad: valor;
+    propiedad: valor;
+}
+*/
+
+/*
+Selector de tipo 
+*/
+
+body{
+    background-color: chocolate;
+}
+
+
+header{
+    background-color: rgb(51, 22, 218);
+}
+
+a{
+    color:blueviolet;
+    text-decoration: fuchsia;
+    margin: 3px;
+}
+
+.vinculos{
+    color:aquamarine
+}
+
+.encabezado-principal{
+
+}
+
+.contenido-principal{
+    
+}
+
+.pie-principal{
+    
+}
+
